@@ -1,5 +1,6 @@
 awscrt==0.13.11
 awsiotsdk==1.11.2
-ayllu-iot==1.0.0
+ayllu-iot==1.0.3
+cardanopythonlib==1.0.1
 Cerberus==1.3.4
 python-dotenv==0.20.0
